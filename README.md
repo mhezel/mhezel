@@ -1,11 +1,13 @@
-####Design and Development
-
-
 # Mhezel Mohammad
 
 I'm Mhezel from the Philippines, I'm a graduate of computer engineering focusing on my chosen career path or field in Web Design and Development. I find myself interested and willingly active to learn new languages and frameworks like JAVA , PHP , Yii2 Framework, as well as work in Relational Database Management Systems like (MYSQL, MongoDB).
 
-## Skills: PHP/ JAVA / HTML / CSS / RDBMS 
+## Skills: 
+* emoji
+
+
+
+/ JAVA / HTML / CSS / RDBMS 
 
 - 🌱 I’m currently learning Web Designing UI/UX 
 - 📫 How to reach me: mhezelkhan@gmail.com 
