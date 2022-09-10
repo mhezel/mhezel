@@ -1,6 +1,6 @@
 # Mhezel Mohammad
 
-I'm Mhezel from the Philippines, I'm a graduate of computer engineering focusing on my chosen career path or field in Web Design and Development. I find myself interested and willingly active to learn new languages and frameworks like JAVA , PHP , Yii2 Framework, as well as work in Relational Database Management Systems like (MYSQL, MongoDB).
+I'm Mhezel from the Philippines, I'm a graduate of computer engineering focusing on my chosen career path or field in Web Design and Development. I find myself interested and willingly active to learn new languages and frameworks like JAVA , PHP , Yii2 Framework, as well as work in Relational Database Management Systems like (MYSQL, Maria DB, Microsoft SQL Server).
 
 ## Skills: PHP / JAVA / HTML / CSS / RDBMS 
 
