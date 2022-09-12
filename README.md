@@ -23,14 +23,13 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. I find myself interested and   willingly active to learn new languages and frameworks like JAVA , PHP , Yii2 Framework, as well as work in Relational Database Management Systems like (MYSQL, Maria DB, Microsoft SQL Server).
 
 - :seedling: Exploring UI/UX Web Designing and Development
 
-- :zap: In my free time, I find myself interested and willingly active to learn new languages and frameworks like JAVA , PHP , Yii2 Framework, as well as work in Relational Database Management Systems like (MYSQL, Maria DB, Microsoft SQL Server). I'm currently learning new programming languages for Mobile Development
+- :zap: In my free time, I'm currently learning new programming languages also for Mobile Development
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn/mhezel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mhezelkhan-mohammad-415284173/)
-
 
 ### :hammer_and_wrench: Languages and Tools :
 
