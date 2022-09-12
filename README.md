@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring UI/UX Web Designing and Development
 
-- :zap: In my free time, I'm currently learning new programming languages also for Mobile Development
+- :zap: In my free time, I'm currently learning new programming languages for Mobile Application Development
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn/mhezel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mhezelkhan-mohammad-415284173/)
 
