@@ -23,9 +23,9 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. I find myself interested and   willingly active to learn new languages and frameworks like JAVA , PHP , Yii2 Framework, as well as work in Relational Database Management Systems like (MYSQL, Maria DB, Microsoft SQL Server).
+- :telescope: I’m working as a Software Developer contributing to both frontend and backend for building web applications. I find myself interested and   willingly active to learn new languages and frameworks like JAVA , PHP , Yii2 Framework, as well as work in Relational Database Management Systems like (MYSQL, Maria DB, Microsoft SQL Server).
 
-- :seedling: Exploring UI/UX Web Designing and Development
+- :seedling: Exploring UI/UX Web Designing and Development (Product Development Life Cylce, UX Research Design)
 
 - :zap: In my free time, I'm learning new programming languages for Mobile Application Development
 
