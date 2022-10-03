@@ -21,9 +21,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines.
+I am training to be a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines.
 
-- :telescope: I’m working as a Software Developer contributing to both frontend and backend for building web applications. I find myself interested and   willingly active to learn new languages and frameworks like PHP , Yii2 Framework, as well as work in Relational Database Management Systems like (MYSQL, Maria DB, Microsoft SQL Server).
+- :telescope: I’m working my way to be as a Software Developer contributing to both frontend and backend for building web applications. I find myself interested and   willingly active to learn new languages and frameworks like PHP , Yii2 Framework, as well as work in Relational Database Management Systems like (MYSQL, Maria DB, Microsoft SQL Server).
 
 - :seedling: Exploring UI/UX Web Designing and Development (Product Development Life Cylce, UX Research Design)
 
