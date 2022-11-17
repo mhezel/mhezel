@@ -19,7 +19,8 @@
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines.
+</h1>
+Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from the Philippines.
 
 - I’m working as a Software Application Developer contributing to both frontend and backend for building web applications. 
 - Experience with programming paradigms such as object oriented programming and procedural programming in PHP language. 
