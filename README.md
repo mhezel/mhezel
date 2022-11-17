@@ -21,13 +21,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I am training to be a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines.
+I'am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Philippines.
 
-- :telescope: I’m working as a Web Application Developer contributing to both frontend and backend for building web applications. I'm currently learning new languages and frameworks like PHP , Yii2 Framework, as well as working in Relational Database Management Systems like (MYSQL, Maria DB, Microsoft SQL Server).
+- :telescope: I’m working as a Software Application Developer contributing to both frontend and backend for building web applications. Experience with programming      paradigms such as object oriented programming and procedural programming in PHP language. Proficient understanding of code versioning tools such as Git, GitLab, GitHub or similar and also has an adequate knowledgeable of relational database management system.
 
 - :seedling: Exploring UI/UX Web Designing and Development (Product Development Life Cylce, UX Research Design)
 
-- :zap: In my free time, I'm learning new programming languages for Mobile Application Development
+- :zap: In my free time, I'm learning new programming languages for Mobile Application Development.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn/mhezel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mhezelkhan-mohammad-415284173/)
 
