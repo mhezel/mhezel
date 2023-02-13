@@ -23,7 +23,7 @@
 Full Stack Developer from the Philippines. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - I’m working as a Software Application Developer contributing to both frontend and backend for building web applications. 
-- Experience with programming paradigms such as object oriented programming and procedural programming in PHP language. 
+- Experience with programming paradigms such as object oriented programming and procedural programming in PHP and Python language. 
 - :telescope: Proficient understanding of code versioning tools such as Git, GitLab, GitHub or similar and also has an adequate knowledge of relational database management system.
 
 - :seedling: Exploring UI/UX Web Designing and Development (Product Development Life Cylce, UX Research Design)
